@@ -1,0 +1,16 @@
+{
+    "name": "lenovo/user-manager",
+    "description": "project Paas",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\UserManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "naellaz",
+            "email": "studynaell@gmail.com"
+        }
+    ],
+    "require": {}
+}
